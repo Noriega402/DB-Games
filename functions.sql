@@ -1,13 +1,17 @@
 -- FUNCTIONS
+
+-- drop function
+DROP FUNCTION insert_enterprise(VARCHAR);
+
+-- create function to insert enterprise
 CREATE OR REPLACE FUNCTION insert_enterprise(VARCHAR)
-RETURNS SETOF enterprise AS
-$$
+	RETURNS SETOF enterprises
+AS $$
 DECLARE
-	pquery TEXT;
+	name ALIAS FOR $1;
 BEGIN
-
-	INSERT INTO enterprise(name_enterprise) VALUES ($1);
-	RETURN QUERY SELECT *FROM enterprise;
-
-END;
-$$ LANGUAGE plpgsql;
+	INSERT INTO enterprises(name_enterprise) VALUES(name);
+	RAISE NOTICE 'Registro agregado!';
+	RETURN QUERY SELECT *FROM enterprises WHERE name_enterprise = name;
+END
+$$ LANGUAGE PLPGSQL;
