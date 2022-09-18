@@ -1,7 +1,9 @@
 -- SCHEMA
+CREATE DATABASE videogames;
+
 CREATE TABLE enterprises(
     id SERIAL PRIMARY KEY,
-    name_enterprise CHARACTER VARYING not null
+    name_enterprise CHARACTER VARYING NOT NULL
 );
 
 CREATE TABLE phones(
@@ -14,7 +16,8 @@ ALTER TABLE phones
 ADD CONSTRAINT phones_enterprises_fk
 FOREIGN KEY (enterprise_id)
 REFERENCES enterprises(id)
-ON DELETE SET NULL;
+ON DELETE SET NULL
+ON UPDATE CASCADE;
 
 CREATE TABLE emails(
     id SERIAL PRIMARY KEY,
@@ -26,7 +29,9 @@ ALTER TABLE emails
 ADD CONSTRAINT emails_enterprises_fk
 FOREIGN KEY (enterprise_id)
 REFERENCES enterprises(id)
-ON DELETE SET NULL;
+ON DELETE SET NULL
+ON UPDATE CASCADE;
+
 
 CREATE TABLE games(
     id SERIAL PRIMARY KEY,
@@ -39,11 +44,12 @@ ALTER TABLE games
 ADD CONSTRAINT games_enterprises_fk
 FOREIGN KEY (enterprise_id)
 REFERENCES enterprises(id)
-ON DELETE SET NULL;
+ON DELETE SET NULL
+ON UPDATE CASCADE;
 
 CREATE TABLE consoles(
     id SERIAL PRIMARY KEY,
-    name_console CHARACTER VARYING NOT NULL,
+    name_console CHARACTER VARYING NOT NULL
 );
 
 CREATE TABLE asig_game_console(
@@ -56,4 +62,5 @@ ALTER TABLE asig_game_console
 ADD CONSTRAINT asig_game_console__games_fk
 FOREIGN KEY (game_id)
 REFERENCES games(id)
-ON DELETE CASCADE;
+ON DELETE CASCADE
+ON UPDATE CASCADE;

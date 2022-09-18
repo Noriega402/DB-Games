@@ -1,17 +1,17 @@
-SELECT *FROM enterprise;
+SELECT *FROM enterprises;
 SELECT *FROM games;
 
 -- select company and game
-SELECT e.name_enterprise as enterprise, g.name_game as name
+SELECT e.name_enterprises as enterprises, g.name_game as name
 FROM games as g
-INNER JOIN enterprise as e ON e.id = g.id_enterprise;
+INNER JOIN enterprises as e ON e.id = g.id_enterprises;
 
 -- select the total number of sets belonging to X company
-SELECT COUNT(*) FROM games WHERE games.id_enterprise = 1;
+SELECT COUNT(*) FROM games WHERE games.id_enterprises = 1;
 
 -- concatenate company name and email
-SELECT CONCAT('Empresa: ',enterprise.name_enterprise,' Correo: ',enterprise.mail ) as contacto
-FROM enterprise;
+SELECT CONCAT('Empresa: ',enterprises.name_enterprises,' Correo: ',enterprises.mail ) as contacto
+FROM enterprises;
 
 -- select the games from 2000 onwards
 SELECT games.name_game as "Juegos de los 2000" FROM games WHERE fecha > 1999;
@@ -20,7 +20,7 @@ SELECT games.name_game as "Juegos de los 2000" FROM games WHERE fecha > 1999;
 SELECT COUNT(*) FROM games;
 
 -- Count the total number of registered companies
-SELECT COUNT(*) FROM enterprise;
+SELECT COUNT(*) FROM enterprises;
 
 -- Sintax of Procedures Languages
 DO $$ --bloque de codigo ($$ abriendo simbolo del bloque de codigo)
@@ -65,7 +65,7 @@ BEGIN
 		counter := counter + 1;
 	END LOOP;
 	RAISE NOTICE 'El total de juegos en la base de datos es de: %', counter;
-END 
+END
 $$ LANGUAGE PLPGSQL;
 
 SELECT listar_games(); -- ver en Messages
