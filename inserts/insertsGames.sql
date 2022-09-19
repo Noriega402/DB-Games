@@ -1,3 +1,4 @@
+-- Data to insert in the game table
 SELECT insert_enterprise('NINTENDO');
 SELECT insert_enterprise('CAPCOM');
 SELECT insert_enterprise('SEGA');
