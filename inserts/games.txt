@@ -1,0 +1,665 @@
+1,F1 Race ,1984-11-05,1
+2,Excitebike,1984-08-07,1
+3,Clu Clu Land,1985-09-01,1
+4,Tennis,1984-08-08,1
+5,Hogan's Alley ,1984-08-03,1
+6,Baseball ,1984-01-24,1
+7,Donkey Kong Jr. ,1984-06-24,1
+8,Ice Climber ,2010-04-22,1
+9,Wrecking Crew ,2018-07-26,1
+10,Super Mario Bros. ,1996-06-29,1
+11,Mach Rider ,2020-02-29,1
+12,Balloon Fight ,1987-02-03,1
+13,Urban Champion ,2009-04-29,1
+14,Mario Bros. ,2003-04-28,1
+15,Gumshoe ,1983-01-07,1
+16,Kid Icarus ,2003-05-29,1
+17,Metroid ,1982-01-20,1
+18,Mike Tyson's Punch Out!!!,1995-06-13,1
+19,Pro Wrestling ,1994-06-16,1
+20,Rad Racer Slalom,1984-05-14,1
+21,Nintendo's Soccer ,1980-11-27,1
+22,The Legend of Zelda ,2020-10-05,1
+23,Volleyball ,2000-03-18,1
+24,Zelda II: The Adventure of Link ,2006-04-14,1
+25,Super Mario Bros. 2 ,1979-11-10,1
+26,Nintendo's Ice Hockey ,2022-06-18,1
+27,RC Pro Am,1992-05-02,1
+28,Tetris ,1977-06-14,1
+29,To the Earth ,2020-01-07,1
+30,Super Mario Bros. 3 ,2017-07-06,1
+31,Play Action Football ,2022-07-06,1
+32,StarTropics ,1996-08-07,1
+33,Duck Hunt World Class Track Meet ,1989-12-14,1
+34,Super Mario Bros,1990-07-07,1
+35,Yoshi's Cookie ,2005-11-29,1
+36,Kirby's Adventure ,1986-05-07,1
+37,Joy Mech Fight ,1985-10-01,1
+38,Tetris 2 ,2020-09-28,1
+39,StarTropics II: Zoda's Revenge ,1999-12-05,1
+40,Super Mario World ,1977-12-10,1
+41,F Zero ,1991-01-04,1
+42,Pilotwings ,1983-02-13,1
+43,Sim City ,1978-03-03,1
+44,Super Tennis ,1979-03-30,1
+45,Mario Paint ,2007-09-11,1
+46,Super Mario Kart ,2000-05-01,1
+47,Super Scope 6,2000-09-10,1
+48,Battle Clash ,1996-04-02,1
+49,The Legend of Zelda: A Link to the Past ,1992-04-12,1
+50,Super Play Action Football ,2009-09-18,1
+51,NCAA Basketball ,1994-10-29,1
+52,Super Soccer ,2021-04-02,1
+53,Star Fox ,2001-12-01,1
+54,Super Mario All Stars ,1979-02-06,1
+55,Vegas Stakes ,1983-01-24,1
+56,Metal Combat: Falcon's Revenge ,2020-10-06,1
+57,NHL Stanley Cup ,2000-01-12,1
+58,Mario & Wario ,1988-02-24,1
+59,Yoshi's Cookie ,2019-05-21,1
+60,Tetris & Dr. Mario ,2009-07-12,1
+61,Uniracers ,1981-03-13,1
+62,Super Mario All Stars ,1986-04-15,1
+63,super Mario World ,2019-04-18,1
+64,EarthBound ,1995-06-21,1
+65,Kirby's Dream Course ,1990-11-05,1
+66,Super Mario World 2: Yoshi's Island ,2022-11-13,1
+67,Donkey Kong Country 2: Diddy's Kong Quest ,2015-04-12,1
+68,Super Mario 64 ,1986-09-15,1
+69,Pilotwings 64 ,1981-07-27,1
+70,Wave Race 64 ,2013-05-09,1
+71,Cruis'n USA ,1987-02-08,1
+72,Star Fox 64 ,1988-06-18,1
+73,Tetrisphere ,1998-10-28,1
+74,1080 Snowboarding ,1994-10-21,1
+75,F1 World Grand Prix ,2003-07-20,1
+76,F Zero X ,1993-07-24,1
+77,The Legend of Zelda: Ocarina of Time ,1984-08-16,1
+78,Yoshi's Story ,2000-04-29,1
+79,Donkey Kong 64 ,2015-04-21,1
+80,NBA Courtside 2: Featuring Kobe Bryant ,2012-02-06,1
+81,Super Smash Bros. ,2004-01-01,1
+82,Custom Robo ,1988-07-05,1
+83,Cruis'n Exotica ,2017-10-27,1
+84,Sin and Punishment: Successor of the Earth ,2020-02-29,1
+85,Paper Mario ,2001-07-20,1
+86,Pokémon Stadium 2 ,2010-01-14,1
+87,Command & Conquer  ,1976-09-03,1
+88,StarCraft 64  ,1993-02-20,1
+89,Tales of Phantasia,2001-11-16,1
+90,Super Smash Bros ,2001-05-01,1
+91,Super Smash Bros,1977-11-07,1
+92,Children of Mana,2011-09-19,1
+93,Super Smash Bros ,2019-06-20,1
+94,Supernoobs ,2015-06-14,1
+95,Cartoon Network's Mighty Magiswords ,2015-02-03,1
+96,Super Smash Bros ,2004-09-03,1
+97,Super Smash Bros ,2001-07-12,1
+98,Little Battlers experience ,1991-12-17,1
+99,Bravely Default: Flying Fairy,2003-03-23,1
+100,Fantasy Life,2005-05-09,1
+101,Luigi's Mansion ,2004-08-09,1
+102,Pikmin ,1981-01-21,1
+103,Super Smash Bros. Melee ,1993-02-13,1
+104,Eternal Darkness: Sanity's Requiem ,1993-08-18,1
+105,The Legend of Zelda: Ocarina of Time Master Quest ,1999-03-09,1
+106,The Legend of Zelda: The Wind Waker ,1986-04-20,1
+107,Custom Robo ,2000-11-20,1
+108,Metroid Prime 2: Echoes ,2011-09-09,1
+109,Battalion Wars ,1984-04-15,1
+110,Fire Emblem: Path of Radiance ,2009-08-17,1
+111,Geist ,2020-05-16,1
+112,Star Fox: Assault ,2022-09-30,1
+113,Super Mario Strikers ,1986-04-28,1
+114,Chibi Robo! ,2015-09-13,1
+115,The Legend of Zelda: Twilight Princess ,1977-09-23,1
+116,Odama ,2017-01-17,1
+117,Wii Sports ,1997-05-22,1
+118,Excite Truck ,2013-05-27,1
+119,The Legend of Zelda: Twilight Princess ,1983-01-25,1
+120,Wii Play ,2003-11-13,1
+121,Pokémon Battle Revolution ,2002-02-28,1
+122,Mario Strikers Charged ,2014-11-04,1
+123,Donkey Kong Barrel Blast ,2018-04-17,1
+124,Battalion Wars 2 ,1980-02-14,1
+125,Fire Emblem: Radiant Dawn ,2011-06-22,1
+126,PokéPark Wii: Pikachu ,1986-06-22,1
+127,Sin and Punishment: Star Successor ,1993-10-09,1
+128,The Legend of Zelda: Skyward SwordTotal Carnage ,1996-03-15,1
+129,Monado: Beginning of the World Final America,2003-01-11,1
+130,Ninja Gaiden 3: Razor's Edge ,1983-12-29,1
+131,Lego City Undercover ,1983-02-11,1
+132,The Wonderful 101,2005-09-12,1
+133,Game & Wario,1976-05-25,1
+134,Bayonetta 2 ,1985-09-19,1
+135,Bayonetta,2003-10-09,1
+136,Ssb4 ,1991-05-02,1
+137,Splatoon ,2016-12-13,1
+138,Xenoblade ,2002-06-27,1
+139,Devil's Third ,1977-06-26,1
+140,Plato Payne ,1998-09-15,1
+141,Project Giant Robot,2000-04-29,1
+142,Earth No More ,1997-02-20,1
+143,WinBack ,2017-04-04,1
+144,WinBack 3: Beigns ,1999-06-30,1
+145,Acacius ,1986-01-06,1
+146,Mechonicle ,2010-09-24,1
+147,K Microkugan Defenders ,1978-07-09,1
+148,K Microkugan Defenders: the Resistance,2012-03-09,1
+149,Alleyway ,2020-03-26,1
+150,Qix ,2011-05-28,1
+151,Balloon Kid ,1985-01-06,1
+152,Dr. Mario ,2007-05-09,1
+153,Solar Striker ,1988-05-16,1
+154,Kid Icarus: Of Myths and Monsters ,2003-03-18,1
+155,Super R.C. Pro Am ,1977-01-03,1
+156,Metroid II: Return of Samus ,1982-03-16,1
+157,Super Mario Land 2: 6 Golden Coins,2000-09-15,1
+158,Wave Race ,1979-08-28,1
+159,Yoshi's Cookie ,2014-10-17,1
+160,Kirby's Pinball Land ,2005-03-24,1
+161,The Legend of Zelda: Link's Awakening ,2015-11-12,1
+162,Tetris 2 ,1977-01-22,1
+163,Donkey Kong ,2008-05-08,1
+164,Wario Blast: Featuring Bomberman! ,2008-06-28,1
+165,Game Boy Gallery ,2010-05-24,1
+166,Donkey Kong Land 2 ,2009-08-20,1
+167,Mole Mania ,2003-10-06,1
+168,Pokémon Roja Edición ,1978-08-27,1
+169,Pokémon Azul Edición ,2002-10-17,1
+170,Game Boy Camera ,1978-09-02,1
+171,Wario Land II ,1989-03-12,1
+172,Pokémon Amarillo Edición ,2000-12-08,1
+173,Game Boy Camera ,2001-08-27,1
+174,The Legend of Zelda: Link's Awakening DX ,2005-12-23,1
+175,Ken Griffey Jr.'s Slugfest ,2017-10-18,1
+176,Game & Watch Gallery 3 ,1988-06-08,1
+177,Mario Golf ,1984-08-19,1
+178,Pokémon Oro Edición ,2017-05-06,1
+179,Pokémon Plata Edición ,2003-03-29,1
+180,Donkey Kong GB: Dinky Kong & Dixie Kong ,1977-11-23,1
+181,The Legend of Zelda: Oracle of Ages ,2002-10-05,1
+182,The Legend of Zelda: Oracle of Seasons ,1998-08-19,1
+183,Pokémon Puzzle Challenge ,2016-01-10,1
+184,Pokémon Crístal Edición ,1993-11-26,1
+185,Advance Wars ,2008-10-30,1
+186,F Zero: Maximum Velocity ,1999-05-11,1
+187,Golden Sun ,2015-11-19,1
+188,Mario Kart Super Circuit ,1981-03-09,1
+189,Super Mario Advance ,2002-12-23,1
+190,Wario Land 4 ,2019-12-06,1
+191,Magical Vacation ,1980-06-13,1
+192,Game & Watch Gallery 4 ,1989-02-14,1
+193,Kirby: Nightmare in Dream Land ,2019-12-01,1
+194,The Legend of Zelda: A Link to the Past ,1998-04-01,1
+195,Metroid Fusion ,2021-03-01,1
+196,Super Mario World: Super Mario Advance 2 ,2019-04-01,1
+197,Yoshi's Island: Super Mario Advance 3 ,1994-03-18,1
+198,Advance Wars 2: Black Hole Rising ,1977-06-14,1
+199,Donkey Kong Country ,2007-03-03,1
+200,Fire Emblem ,1989-10-05,1
+201,Golden Sun: La Edad Perdida ,2002-04-09,1
+202,Mario & Luigi: Superstar Saga ,1981-06-08,1
+203,Pokémon Pinball: Ruby & Sapphire ,2011-06-08,1
+204,Pokémon Rubí Edición ,1978-02-23,1
+205,Pokémon Zafiro Edición ,2000-10-19,1
+206,Super Mario Advance 4: Super Mario Bros. 3 ,1994-06-16,1
+207,"WarioWare Inc.: Mega Microgame ",2006-07-15,1
+208,Donkey Kong ,1998-12-25,1
+209,Dr. Mario ,2012-04-12,1
+210,Excitebike ,2000-11-26,1
+211,Ice Climber ,1988-06-28,1
+212,The Legend of Zelda ,2000-11-08,1
+213,Metroid ,2000-06-03,1
+214,Super Mario Bros ,2004-10-21,1
+215,Pokémon Rojo Fuego Edición,2002-07-01,1
+216,Pokémon Verde Hoja Edición ,1988-07-14,1
+217,Donkey Kong Country 3 ,1994-09-26,1
+218,Dr. Mario & Puzzle League ,1995-10-30,1
+219,Fire Emblem The Sacred Stones ,1985-05-05,1
+220,The Legend of Zelda The Minish Cap ,1984-02-29,1
+221,Mario Party Advance,1997-07-04,1
+222,Mario Tennis Power Tour ,2011-11-30,1
+223,Pokémon Esmeralda Edición ,2000-11-27,1
+224,WarioWare Twisted! ,2008-08-03,1
+225,Yoshi Topsy Turvy ,1983-01-03,1
+226,Drill Dozer ,2015-08-12,1
+227,Pokémon Mystery Dungeon: Red Rescue Team ,1981-05-20,1
+228,PictoChat ,1995-03-01,1
+229,Super Mario 64 DS ,2016-12-13,1
+230,Ridge Racer DS ,2018-01-30,1
+231,WarioWare Touched ,2001-10-28,1
+232,Yoshi Touch & Go ,2002-08-16,1
+233,Pokémon Dash ,1978-07-26,1
+234,Polarium ,2013-03-15,1
+235,Kirby Canvas Curse ,1992-12-29,1
+236,Meteos ,2022-03-01,1
+237,Advance Wars: Dual Strike ,2015-08-19,1
+238,Chihuahua & Friends ,2021-05-16,1
+239,Dachshund & Friends ,2007-04-23,1
+240,Lab & Friends ,2015-04-07,1
+241,Trace Memory ,2007-11-29,1
+242,Nintendogs Best Friends Edition ,1976-01-12,1
+243,Mario Kart,2000-07-22,1
+244,Mario & Luigi Partners in Time ,2001-08-24,1
+245,Animal Crossing Wild World ,2014-06-24,1
+246,Electroplankton,1980-04-02,1
+247,Mario Hoops 3 on 3 ,1990-06-13,1
+248,Magical Starsign ,2019-02-23,1
+249,Custom Robo Arena ,1977-01-22,1
+250,Hotel Dusk Room 215 ,2017-11-19,1
+251,Planet Puzzle League ,2009-01-17,1
+252,DK Jungle Climber ,2003-07-01,1
+253,The Legend of Zelda: Phantom Hourglass ,2006-06-08,1
+254,Chibi Robo Park Patrol ,2020-12-19,1
+255,Mario Party,2019-01-29,1
+256,Professor Layton and the Curious Village ,1980-02-25,1
+257,Pokémon Ranger Shadows of Almia ,2021-03-10,1
+258,The Legendary Starfy ,1986-07-06,1
+259,Rhythm Heaven ,1988-09-01,1
+260,Kirby Super Star Ultra ,2013-10-09,1
+261,Fossil Fighters ,2002-08-05,1
+262,The Legend of Zelda: Spirit Tracks ,2006-08-24,1
+263,Pokémon Platino Edición ,2001-12-07,1
+264,Style Savvy ,1994-05-25,1
+265,Glory of Heracles ,2010-10-25,1
+266,Pokémon Platino Edición ,1987-09-26,1
+267,Picross,2007-05-06,1
+268,Golden Sun Dark Dawn ,2006-01-07,1
+269,Pokémon Blanco y Negro Edición ,2020-03-30,1
+270,Super Fossil Fighters ,2002-06-27,1
+271,Kirby,1984-02-09,1
+272,Absolver,2016-10-08,6
+273,ABZU,1976-07-31,6
+274,Ace of Seafood,2000-11-06,6
+275,Adr1ft,1980-11-05,6
+276,Agatha Christie  The ABC Murders,1985-10-07,6
+277,Age of Wonders Planetfall,1994-10-14,6
+278,Agents of Mayhem,2011-06-25,6
+279,ALIENATION,2003-01-10,6
+280,Akiba's Beat,2015-06-01,6
+281,AO Tennis 2,1991-08-14,6
+282,Aragami,2002-08-19,6
+283,Ash of Gods Redemption,1995-09-18,6
+284,Ashen,2022-01-15,6
+285,Assassin's Creed Valhalla ,2007-04-20,6
+286,Assassin’s Creed IV Black Flag,2019-07-09,6
+287,Assassin’s Creed Unity,2006-01-04,6
+288,Assassin’s Creed Rogue Remastered,1977-03-01,6
+289,Assassin’s Creed Freedom Cry,1987-05-22,6
+290,Assassin’s Creed: The Ezio Collection,1983-05-11,6
+291,Assetto Corsa Competizione ,1991-03-16,6
+292,Astebreed,1998-04-15,6
+293,AVICII Invector,1992-08-28,6
+294,Back to Bed,1998-04-28,6
+295,Bad North,2014-06-15,6
+296,Balan Wonderworld ,2009-04-01,6
+297,Batman: Arkham Knight,2000-01-07,6
+298,Battle Chasers: Nightwar,2003-04-29,6
+299,Bee Simulator,2014-01-30,6
+300,Black Mirror,2016-05-17,6
+301,Blasphemous,1998-08-13,6
+302,Bloodborne,2008-06-11,6
+303,Bloodstained: Ritual of the Night,1985-01-13,6
+304,Bomber Crew,1989-07-30,6
+305,Bound,2003-05-25,6
+306,Bound by Flame,1991-11-01,6
+307,Brawlout,1988-05-12,6
+308,Brothers: A Tale of Two Sons,2015-04-14,6
+309,Bubsy: The Woolies Strike Back,1994-05-31,6
+310,Bugsnax,1996-10-14,6
+311,Block Game,1993-01-07,4
+312,Block Invader,1976-06-01,4
+313,Space Ship,1993-01-02,4
+314,Space King,2019-03-27,4
+315,Space King 2,2018-05-27,4
+316,Space War,1985-03-13,4
+317,Amidar (publicado por Stern),1989-02-18,4
+318,Barrían,1995-05-20,4
+319,Frogger (publicado por Sega),1985-06-19,4
+320,Jungler,2018-12-22,4
+321,Scramble (publicado por Stern),1977-10-07,4
+322,Strategy X,2009-02-11,4
+323,Super Cobra,1993-03-11,4
+324,Tactician,2022-10-19,4
+325,Turban,2010-10-12,4
+326,Turtles,2004-11-21,4
+327,Ultra Dome,1979-09-14,4
+328,Video Hustler,1976-02-16,4
+329,Locomotion,2017-03-17,4
+330,Pooyan,2011-04-17,4
+331,Time Pilot,2017-09-10,4
+332,Tutankham,1983-07-18,4
+333,Finalizer,2010-02-16,4
+334,Galactic Warriors,1993-03-01,4
+335,Gradius / Nemesis,1992-05-07,4
+336,Konami GT,1997-07-22,4
+337,Konami's Ping Pong,1993-10-14,4
+338,Rush'n Attack,2016-12-01,4
+339,Scooter Shooter,1985-06-18,4
+340,Shao-Lin's Road,1993-05-02,4
+341,Twinbee,1989-06-21,4
+342,Wiz Quiz,1998-05-13,4
+343,Yie Ar Kung Fu,2007-07-14,4
+344,Double Dribble,1999-12-23,4
+345,Mr. Goemon,2007-03-06,4
+346,Vs. Gradius,1980-10-22,4
+347,Iron Horse,1984-09-07,4
+348,Jackal,1991-02-08,4
+349,JailBreak,2022-05-23,4
+350,Rock'n Rage,1990-09-12,4
+351,Salamander / Life Force,1999-02-21,4
+352,WEC Le Mans,2000-12-09,4
+353,Battlantis,2021-05-09,4
+354,B.A.W.,1992-02-17,4
+355,Blades of Steel,1991-07-12,4
+356,Boot Camp,2007-03-19,4
+357,Castlevania,2012-02-02,4
+358,City Bomber,2014-12-04,4
+359,Combat School,1984-07-29,4
+360,Contra,1978-01-07,4
+361,Dark Adventure,2006-12-19,4
+362,Devil World,1996-05-24,4
+363,Fast Lane,2018-07-21,4
+364,Flak Attack,1978-02-18,4
+365,Great Train Gang,2022-11-16,4
+366,Hyper Crash,1977-02-11,4
+367,Labyrinth Runner,2020-06-02,4
+368,MX 5000,1984-03-12,4
+369,Rack 'em Up,1996-09-14,4
+370,Life Force,1981-10-13,4
+371,Typhoon,1987-12-07,4
+372,Super Contra,1986-12-23,4
+373,Haunted Castle,2018-07-19,4
+374,Checkered Flag,1995-10-31,4
+375,Devastators,2003-02-19,4
+376,The Main Event,2007-11-28,4
+377,The Final Round,1988-08-26,4
+378,Ajax,1991-10-01,4
+379,Thunder Cross,2015-03-10,4
+380,Kitten Kaboodle,2005-08-23,4
+381,Hot Chase,1980-02-25,4
+382,King of Rings,1987-09-03,4
+383,Gang Busters,2013-03-17,4
+384,Konami 88,1985-08-14,4
+385,Gradius II,1990-01-11,4
+386,Top Gun,1997-03-28,4
+387,Dragoon Might,1986-04-25,4
+388,Midnight Run: Road Fighter 2,1999-10-29,4
+389,Crypt Killer,2001-10-07,4
+390,Pirate Ship,1993-09-04,4
+391,Speed King,1982-12-21,4
+392,Five A Side Soccer,1986-05-11,4
+393,Ultra Sports,1986-09-03,4
+394,Pittanko Zaurus,2018-05-20,4
+395,Premier Soccer 95,1996-03-13,4
+396,Quiz Do Re Mi Fa Grand Prix 2,1987-01-12,4
+397,Tokimeki Memorial Taisen Puzzle-Dama,2019-09-21,4
+398,Twin Bee Yahhoo!,1997-09-29,4
+399,Hole in One,2022-04-29,4
+400,Midnight Run: Road Fighter 2,2004-11-21,4
+401,Bishi Bashi Champ Mini Game Senshuken,1997-09-18,4
+402,Daisu-Kiss,2006-09-30,4
+403,Dead Eye,2007-02-14,4
+404,Hyper Athlete,2000-07-22,4
+405,Midnight Run: Road Fighter 2,2004-10-24,4
+406,Powerfull Baseball '96,1995-11-20,4
+407,Run And Gun 2,2017-03-01,4
+408,Salamander 2,1997-03-14,4
+409,Sexy Parodius,1981-01-10,4
+410,Susume! Taisen Puzzle-Dama,2003-05-05,4
+411,Taisen Tokkae dama,1979-12-16,4
+412,Vs. Net Soccer,2009-11-05,4
+413,Wave Shark,1995-03-07,4
+414,Winding Heat,2019-07-15,4
+415,GTI Club,2000-11-13,4
+416,Balloon Penta,1995-09-02,4
+417,Yu-Gi-Oh! Trading Card Game,1981-09-14,4
+418,Battle Vision,2015-12-16,4
+419,Beatmania,2011-04-20,4
+420,Fighting Bujutsu: Wu-Shu,1976-01-20,4
+421,Hang Pilot,1976-03-17,4
+422,Operation Thunder Hurricane,2012-12-30,4
+423,Polystars,2002-05-01,4
+424,Rushing Heroes,1979-05-01,4
+425,Solar Assault,1985-03-08,4
+426,Solar Assault: Revised,1990-03-28,4
+427,Tokimeki Memorial Oshiete Your Heart,1981-06-30,4
+428,Total Vice,1995-01-30,4
+429,Wedding Rhapsody,1981-10-18,4
+430,Winning Spike,2020-09-04,4
+431,Battle Tryst,2006-01-12,4
+432,Beatmania 2ndMix,1978-06-26,4
+433,Beatmania 3rdMix,2003-10-02,4
+434,Beatstage,2009-09-09,4
+435,Dance Dance Revolution ,1980-02-07,4
+436,Dark Horse Legend,2002-03-19,4
+437,Evil Night,2012-10-29,4
+438,Fighting Bujustu,2007-10-14,4
+439,Fisherman's Bait Kit,2009-06-11,4
+440,Fisherman's Bait 2,2009-02-17,4
+441,Handle Champ,2015-03-28,4
+442,Heat Of Eleven '98,2014-10-06,4
+443,HipHopMania,2022-09-10,4
+444,Jikkyou Powerful Pro Baseball EX,1984-11-10,4
+445,Nagano Winter Olympics 98,2018-04-26,4
+446,NBA Play By Play,1984-10-11,4
+447,Pop'n Music,2000-03-25,4
+448,Racing Jam,1981-08-12,4
+449,Rushing Heroes Football,2016-07-15,4
+450,Skiers High,2008-12-17,4
+451,Super Bishi Bashi Championship,2000-03-24,4
+452,Teraburst,1993-05-09,4
+453,Thrill Drive,2015-11-12,4
+454,Total Vice,1976-11-19,4
+455,Beatmania 4thMix The Beat Goes On,1998-01-03,4
+456,Beatmania 5thMix Time to Get Down,2007-02-03,4
+457,Beatmania Complete Mix,1995-10-30,4
+458,Beatmania IIDX,1999-01-23,4
+459,Beatmania IIDX 2ndStyle,1977-02-16,4
+460,Beatmania IIDX Club Version,1999-08-18,4
+461,Beatmania IIDX Substream,2013-09-06,4
+462,Dance Dance Revolution,2006-11-01,4
+463,Dance Dance Revolution,1982-12-15,4
+464,Dance Dance Revolution 2ndMix,1980-12-13,4
+465,Dance Dance Revolution 2ndMix con Beatmania IIDX Club Version,2006-09-10,4
+466,Dance Dance Revolution 2ndMix Link Version,1977-07-26,4
+467,Dance Dance Revolution 2ndMix y Beatmania IIDX Substream Club Version,2001-12-07,4
+468,Dance Dance Revolution 3rdMix,2002-11-17,4
+469,Dance Dance Revolution 3rdMix ,2013-02-23,4
+470,Dance Dance Revolution Karaoke Mix,2016-12-01,4
+471,Dancing Stage ,1994-03-11,4
+472,Dancing Stage Remake,1996-05-23,4
+473,Dancing Stage EuroMix,1988-12-20,4
+474,Dancing Stage featuring Dreams Come True,2000-09-04,4
+475,Dancing Stage featuring True Kiss Destination,1994-07-16,4
+476,Dancing Stage featuring True Kiss Destination ,2015-11-22,4
+477,Dark Horse Legend 2,1992-04-06,4
+478,DrumMania,2013-06-13,4
+479,DrumMania 2ndMix,2010-12-18,4
+480,DrumMania 3rdMix,2018-01-15,4
+481,Fisherman's Bait Marlin Challenge,2001-04-30,4
+482,Gachaga Champ,2004-05-10,4
+483,Gradius IV,2003-12-23,4
+484,GuitarFreaks 2ndMix,2006-10-10,4
+485,GuitarFreaks 3rdMix,1988-09-22,4
+486,Hyper Bishi Bashi,2013-07-23,4
+487,Pop'n Music 2,2002-05-07,4
+488,Pop'n Music 3,2007-11-01,4
+489,Pop'n Stage,1985-11-15,4
+490,Racing Jam 2,1978-06-18,4
+491,Silent Scope,2015-03-03,4
+492,Step Champ,1984-08-10,4
+493,Anime Champ,1977-06-12,4
+494,Beatmania ClubMix,1991-05-02,4
+495,Beatmania Complete Mix 2,1992-02-25,4
+496,Beatmania Core Remix,1984-06-27,4
+497,Beatmania Club Mix,2004-02-21,4
+498,Beatmania featuring Dreams Come True,2020-01-30,4
+499,Beatmania IIDX 3rd Style,2018-06-15,4
+500,Beatmania IIDX 4th Style,2014-01-12,4
+501,Beatmania III,1979-04-12,4
+502,Beatmania III Append Core Remix,1982-11-18,4
+503,Code One Dispatch,1987-08-18,4
+504,The Adventures of Batman & Robin,2013-10-24,4
+505,Alex Kidd BMX Trial,2014-06-24,3
+506,Alex Kidd in Miracle World,1991-03-03,3
+507,Alex Kidd in Shinobi World,1988-08-26,3
+508,Alex Kidd in the Enchanted Castle,1993-07-14,3
+509,Alex Kidd: High Tech World,1982-12-10,3
+510,Alex Kidd: The Lost Stars,2019-09-20,3
+511,Alien Soldier,1979-02-28,3
+512,Alien Syndrome,1978-03-24,3
+513,Alien: Isolation,2012-11-16,3
+514,Aliens vs. Predator,1987-07-26,3
+515,Aliens: Colonial Marines,2016-01-06,3
+516,Alpha Protocol,2015-10-25,3
+517,Altered Beast,1986-02-28,3
+518,Altered Beast,2004-06-26,3
+519,The Amazing Spider-Man: Web of Fire,2019-09-22,3
+520,Ariel the Little Mermaid,2021-06-09,3
+521,Astro Boy: Omega Factor,2000-09-23,3
+522,Ayrton Senna's Super Monaco GP II,2012-08-12,3
+523,Batman Return,1996-06-15,3
+524,Bayonetta,2015-12-10,3
+525,Bayonetta 2,2002-05-01,3
+526,Beijing,1987-10-24,3
+527,Binary Domain,1989-06-23,3
+528,Bleach: Dark Souls,1987-06-05,3
+529,Bleach: Shattered Blade,1989-05-22,3
+530,Bleach: The Blade of Fate,1992-09-16,3
+531,Blue Stinger,1997-05-21,3
+532,Brain,1977-11-02,3
+533,Bugs Bunny in Double Trouble,1980-02-11,3
+534,Bullfight,2022-12-10,3
+535,Capitán América: Supersoldado,1995-12-18,3
+536,Castle of Illusion Starring Mickey Mouse,2018-01-05,3
+537,Castle of Illusion Starring Mickey Mouse,2006-02-01,3
+538,Castle of Illusion Starring Mickey Mouse,2018-10-22,3
+539,Chakan: The Forever Man,2006-07-27,3
+540,Champion Boxing,2007-12-21,3
+541,Charlotte's Web,1978-04-30,3
+542,Cheese Cat-Astrophe Starring Speedy Gonzales,2012-08-27,3
+543,Chromehounds,2007-08-04,3
+544,ChuChu Rocket!,1977-05-05,3
+545,Clockwork Knight,2002-01-29,3
+546,Coca-Cola Kid,1998-03-04,3
+547,Columns,2006-03-07,3
+548,Command & Conquer,2005-05-02,3
+549,Company of Heroes 2,1985-03-08,3
+550,Condemned 2: Bloodshot,1987-01-06,3
+551,Condemned: Criminal Origins,2006-04-06,3
+552,Conduit 2,1983-07-30,3
+553,Crash Bandicoot N. Sane Trilogy,2005-11-18,3
+554,Crash Team Racing Nitro-Fueled,2002-08-27,3
+555,Crazy Taxi,1986-07-26,3
+556,Crazy Taxi 2,2010-01-19,3
+557,Crazy Taxi: Catch a Ride,2018-06-09,3
+558,Crazy Taxi: La guerra de los taxímetros,1996-01-30,3
+559,Cyber Shinobi,2017-08-17,3
+560,D no shokutaku 2,2006-09-02,3
+561,Daffy Duck in Hollywood,1986-11-19,3
+562,Daytona USA,1983-08-22,3
+563,Deep Duck Trouble,2002-07-26,3
+564,Deep Fear,1996-02-04,3
+565,Desert Demolition,1994-02-24,3
+566,Doki Doki Penguin Land,2016-12-23,3
+567,Donalds Gespensterjagd,1996-08-04,3
+568,Doom,1999-01-07,3
+569,Dr. Robotnik's Mean Bean Machine,2009-01-13,3
+570,Dragon Crystal,2014-05-31,3
+571,F-Zero GX,2005-05-28,3
+572,Fahrenheit,1991-03-09,3
+573,Fantasy Zone,1981-07-29,3
+574,Fantasy Zone,1984-04-03,3
+575,Fantasy Zone,1986-10-29,3
+576,Fantasy Zone: The Maze,1981-02-10,3
+577,Ferrari F355 Challenge,1980-07-16,3
+578,Fighters Megamix,1994-03-27,3
+579,The Flash,2020-06-23,3
+580,Ford Racing 3,1981-11-05,3
+581,Frogger,2002-12-19,3
+582,MadWorld,2002-06-02,3
+583,Mario & Sonic en los Juegos Olímpicos,2002-03-29,3
+584,Mario & Sonic en los Juegos Olímpicos London,1981-05-15,3
+585,Mario y Sonic en los Juegos Olímpicos de Invierno,1994-03-02,3
+586,Mario y Sonic en los Juegos Olímpicos Río,1980-12-01,3
+587,Mario y Sonic en los Juegos Olímpicos Tokio,2013-12-01,3
+588,McDonald's Treasure Land Adventure,2003-04-25,3
+589,Medieval II: Total War,1996-06-26,3
+590,Medieval II: Total War: Kingdoms,2018-04-20,3
+591,Mercs,1985-07-24,3
+592,Metal Slug 6,1989-10-03,3
+593,Metropolis Street Racer,1987-03-02,3
+594,Mickey no Tokyo Disneyland Stamp Rally,2007-11-04,3
+595,Mickey to ?kina Furudokei,1982-05-12,3
+596,Monkey Ball,1992-08-01,3
+597,Panzer Dragoon Mini,1991-05-01,3
+598,Pengo,2001-04-28,3
+599,Pengo!,2004-02-16,3
+600,Penguin Land,2009-09-24,3
+601,Pepenga Pengo,2008-01-10,3
+602,Phantasy Star,2003-09-04,3
+603,Phantasy Star ,2013-02-04,3
+604,Phantasy Star II,2017-10-08,3
+605,Phantasy Star III,2001-12-06,3
+606,Phantasy Star IV,2018-08-16,3
+607,Phantasy Star Online,2004-02-18,3
+608,Phantasy Star Online 2,1978-02-05,3
+609,Phantasy Star Universe,2004-01-23,3
+610,Phantasy Star Zero,2002-08-03,3
+611,Power Strike II ,1977-07-15,3
+612,Power Strike II,1986-08-02,3
+613,Princess Crown,1993-11-01,3
+614,Project × Zone,1994-06-16,3
+615,Project × Zone 2,1993-11-09,3
+616,Project Rub,1989-02-11,3
+617,Project Sekai: Colorful Stage! feat. Hatsune Miku,1983-06-06,3
+618,Psycho Fox,2020-10-21,3
+619,Pulseman,2004-01-13,3
+620,Puyo Pop Fever,1987-04-02,3
+621,Puyo Puyo 7,2001-03-14,3
+622,Puyo Puyo Tetris 2,1990-07-08,3
+623,Puyo Puyo! 15th Anniversary,1983-09-21,3
+624,Saga Golden Axe,1988-03-10,3
+625,Sakura Taisen,1979-10-30,3
+626,Samba de Amigo,1989-04-07,3
+627,Samurai Shodown VI,2008-12-04,3
+628,Sands of Destruction,1989-03-16,3
+629,Sega Ages,1994-10-05,3
+630,Sega Genesis Classics,2022-04-03,3
+631,Sega GT,2002-07-23,3
+632,Sega GT 2002,2015-12-15,3
+633,Sega Mega Drive Collection,1998-07-30,3
+634,Sega Mega Drive Ultimate Collection,1981-03-05,3
+635,Sega Rally 2,1981-04-02,3
+636,Sega Rally Championship,1977-03-29,3
+637,Sega Smash Pack,1984-01-18,3
+638,Sega Superstars Tennis,2011-12-18,3
+639,Sonic Cosmo Fighter,2001-05-19,3
+640,Shadow Dancer,2013-09-03,3
+641,Shadow Dancer: The Secret of Shinobi,1993-09-17,3
+642,Shadow the Hedgehog,1989-12-05,3
+643,Kinetica,2001-08-14,6
+644,God of War,2005-03-22,6
+645,God of War,2005-03-22,6
+646,God of War,2005-03-22,6
+647,God of War II,2007-03-13,6
+648,God of War II,2007-03-13,6
+649,God of War II,2007-03-13,6
+650,Warhawk,2007-08-28,6
+651,God of War Chains of Olympus,2008-03-04,6
+652,God of War Chains of Olympus,2008-03-04,6
+653,Fat Princess,2009-06-30,6
+654,God of War III,2010-03-16,6
+655,God of War III,2015-07-15,6
+656,God of War Ghost of Sparta,2010-11-02,6
+657,God of War Ghost of Sparta,2010-11-02,6
+658,Journey,2012-03-13,6
+659,Starhawk,2012-05-08,6
+660,God of War Ascension,2013-03-12,6
+661,Here They Lie,2016-08-13,6
+662,God of War,2018-04-20,6
+663,God of War,2018-04-20,6
+664,God of War Ragnarök,2022-11-09,6
+665,God of War Ragnarök,2022-11-09,6
