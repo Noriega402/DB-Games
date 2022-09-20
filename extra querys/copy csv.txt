@@ -1,0 +1,3 @@
+COPY games FROM 'C:\Users\HP INTEL\Desktop\DB-Games\inserts\games.txt' USING DELIMITERS ','
+COPY consoles FROM 'C:\Users\HP INTEL\Desktop\DB-Games\inserts\consoles.txt' USING DELIMITERS ','
+COPY asig_game_console FROM 'C:\Users\HP INTEL\Desktop\DB-Games\inserts\asig_game_console.txt' USING DELIMITERS ','

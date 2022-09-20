@@ -1,0 +1,1 @@
+alter sequence seq restart with 1;
