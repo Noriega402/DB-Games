@@ -7,9 +7,9 @@ Video game database, stored procedures, triggers and views, csv.
 
 [- Create functions with PLPGSQL](https://github.com/Noriega402/DB-Games/tree/main/functions)
 
-[- Insert record of games with functions](https://github.com/Noriega402/DB-Games/blob/main/inserts/insertsGames.sql)
+[- Insert record of games with functions](https://github.com/Noriega402/DB-Games/blob/main/inserts/insertsGames.sql) (_Manual form_)
 
-To insert bulk data into the games table from postgreSQL with a CVS file you can use [**this**](https://github.com/Noriega402/DB-Games/blob/main/inserts/games.txt) file and the following command:
+if you prefer to insert data in bulk into the games table from postgreSQL with a CVS file you can use [**this**](https://github.com/Noriega402/DB-Games/blob/main/inserts/games.txt) file and the following command:
 
 `COPY games FROM 'C:\Users\HP INTEL\Desktop\DB-Games\inserts\games.txt' USING DELIMITERS ','`
 
