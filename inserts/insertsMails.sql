@@ -1,0 +1,18 @@
+SELECT *from emails;
+SELECT insert_mail('nintendola@gmail.com',1);
+SELECT insert_mail('capcom@gmail.com',2);
+SELECT insert_mail('sega@gmail.com',3);
+SELECT insert_mail('konami@gmail.com',4);
+SELECT insert_mail('square@gmail.com',5);
+SELECT insert_mail('ps@gmail.com',6);
+SELECT insert_mail('tecmo@gmail.com',7);
+SELECT insert_mail('technos_japan@gmail.com',8);
+SELECT insert_mail('santamonicaStudios@gmail.com',9);
+SELECT insert_mail('ubisoft@gmail.com',10);
+SELECT insert_mail('bandalNamco@gmail.com',11);
+SELECT insert_mail('blizzarActivision@gmail.com',12);
+SELECT insert_mail('arttronics@gmail.com',13);
+SELECT insert_mail('enixGames@gmail.com',14);
+SELECT insert_mail('sony@gmail.com',15);
+SELECT insert_mail('microsoftCorp@gmail.com',16);
+SELECT insert_mail('furyRaw@gmail.com',17);
