@@ -49,3 +49,20 @@ SELECT g.name_game, c.name_console
 FROM public.asig_game_console AS asig
 INNER JOIN public.games AS g ON g.id = asig.game_id
 INNER JOIN public.consoles AS c ON c.id = asig.console_id;
+
+--SELECCIONAR LOS VIDEOJUEGOS CON SUS CONSOLAS DE LA EMPRESA X
+SELECT g.name_game, c.name_console
+FROM public.asig_game_console AS asig
+INNER JOIN public.games AS g ON g.id = asig.game_id
+INNER JOIN public.consoles AS c ON c.id = asig.console_id
+INNER JOIN public.enterprises AS e ON e.id = g.enterprise_id
+WHERE e.id = 1;
+
+SELECT *FROM public.consoles;
+
+--SELECCIONAR LOS JUEGOS QUE PERTENEZCAN A LAS CONSOLAS CON ID 1
+SELECT COUNT(*) 
+FROM public.asig_game_console AS asig
+INNER JOIN public.games AS g ON g.id = asig.game_id
+INNER JOIN public.consoles AS c ON asig.console_id = c.id
+WHERE c.id = 1;
