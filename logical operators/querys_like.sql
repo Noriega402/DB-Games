@@ -18,6 +18,8 @@ INNER JOIN public.games AS g ON g.id = asig.game_id
 INNER JOIN public.consoles AS c ON asig.console_id = c.id
 WHERE g.name_game LIKE '%_a_%';
 
+
+--SELECCIONAR LOS JUEGOS QUE CONTENGAN UNA "R" (en posicion penultima) seguida de cualquier letra
 SELECT g.name_game
 FROM public.asig_game_console AS asig
 INNER JOIN public.games AS g ON g.id = asig.game_id
